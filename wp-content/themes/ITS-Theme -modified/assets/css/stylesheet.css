@@ -1,0 +1,34 @@
+/*Desktop extra large*/
+@media (min-width:993px){
+    body{
+        background-color: #ffffff;
+    }
+}
+
+/*Desktop large*/
+@media (min-width: 769px) and (max-width: 992px){
+    body{
+        background-color: #ffffff;
+    }
+}
+
+/*Tablet*/
+@media (min-width: 481px) and (max-width: 768px){ 
+    body{
+        background-color: #ffffff;
+    }
+}
+
+/*Mobile large*/
+@media (min-width: 321px) and (max-width:480px){
+    body{
+        background-color: #ffffff;
+    }
+}
+
+/*Mobile small*/
+@media (max-width: 320px){
+    body{
+        background-color: #ffffff;
+    }
+}

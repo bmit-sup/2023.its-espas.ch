@@ -1,0 +1,14 @@
+.accordion-header {
+    cursor: pointer!important;
+    padding: 10px;
+}
+
+.accordion-body {
+    display: none;
+    padding: 10px;
+}
+
+.accordion-header .has-background-color .has-text-color{
+    margin-left: 20px!important;
+    margin-right: 20px!important;
+}
